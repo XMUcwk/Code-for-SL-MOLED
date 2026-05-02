@@ -1,0 +1,7 @@
+======3D Spin Echo Sequence=========
+Usage : run 3D spin echo with EPI readout
+Version : 1.0
+Author : angus WJ
+Time : 05/19/2019
+Affiliation : XMU
+======================================
