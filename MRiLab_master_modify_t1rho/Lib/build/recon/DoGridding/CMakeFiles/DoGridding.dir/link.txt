@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,DoGridding.mexa64 -o DoGridding.mexa64 CMakeFiles/DoGridding.dir/DoGridding.cpp.o  -L/usr/local/MATLAB/R2018a/bin/glnxa64 -lmex -lmx -Wl,-rpath,/usr/local/MATLAB/R2018a/bin/glnxa64: 
