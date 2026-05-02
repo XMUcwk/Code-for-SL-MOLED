@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MRiLabCoil Name="Coil_WJG_B1" Notes="random B1">
+   <CoilCircle Azimuth="0" CoilID="1" CurrentDir="1" Elevation="0" PosX="0" PosY="0" PosZ="0" Radius="0.09" Scale="0.1" Segment="20"/>
+</MRiLabCoil>

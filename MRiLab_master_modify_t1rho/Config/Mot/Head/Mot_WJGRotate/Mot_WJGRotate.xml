@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MRiLabMot Name="Mot_WJGRotate" Notes="Customized Head Motion">
+   <MotRotate Angle="'0.6*sin(pi*t)'" Axis="[0;0;1]" dt="1e-3" tEnd="4" tStart="0"/>
+</MRiLabMot>
