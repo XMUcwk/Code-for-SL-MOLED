@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotElem Notes="motion element list">
+   <MotTranslate Direction="" Displacement="" dt="" tEnd="" tStart=""/>
+   <MotRotate Angle="" Axis="" dt="" tEnd="" tStart=""/>
+</MotElem>

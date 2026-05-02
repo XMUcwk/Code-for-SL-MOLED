@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpinWatchAttr Notes="spin rotation watcher settings">
+   <Spin ChemShift="0" Gyro="267538030.3797" LocX="91" LocY="109" LocZ="91" Rho="1" SpinPerVoxel="20" T1="10" T2="10" T2Star="0.1" TypeNum="1"/>
+   <Display Axes="$2'off','on'" Grid="$2'off','on'" ISOHighlight="$2'off','on'" WindowSize="500"/>
+</SpinWatchAttr>
