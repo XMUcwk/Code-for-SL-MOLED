@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MRiLabVObj Gyro="267538030.3797" Model="$1'Normal','MT','ME','GM'" Name="VObj_Keshan" Notes="Customized 3D Sphere Virtual Object" Type="Water" TypeNum="1" XDim="90" XDimRes="0.002" YDim="90" YDimRes="0.002" ZDim="90" ZDimRes="0.002">
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="-0.03" CenterY="-0.03" CenterZ="0" FaceNum="40" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="0" CenterY="-0.03" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="0.03" CenterY="-0.03" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="0.03" CenterY="-0" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="0" CenterY="-0" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="-0.03" CenterY="-0" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="0.03" CenterY="0.03" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="0" CenterY="0.03" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+   <VObjCylinder Alpha="1" Color="r" Notes="Cylinder Object">
+      <Geometry CenterX="-0.03" CenterY="0.03" CenterZ="0" FaceNum="20" Length="0.1" Radius="0.01"/>
+      <Property ChemShift="0" ECon="0.5 0.5 0.5" K="10" LineShapeFlag="0" MassDen="1000" Rho="1" T1="1" T2="0.1" T2Star="0.01" TypeFlag="0" TypeIdx="1"/>
+   </VObjCylinder>
+</MRiLabVObj>
